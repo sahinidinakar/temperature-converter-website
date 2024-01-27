@@ -1,2 +1,2 @@
 # temperature converter website
-![preview img](/preview.png)
+![preview img](/preview.jpg)
